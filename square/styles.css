@@ -1,0 +1,16 @@
+h2 {
+  text-align: center;
+  font-size: 5rem;
+}
+.canvas-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+canvas {
+  border: 1px solid #000;
+  margin: 10px; /* Ajusta el margen según sea necesario */
+}
